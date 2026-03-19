@@ -157,7 +157,7 @@ GitHub Projects:
 
 ---
 
-## 🧩 Hardware Contributions
+## Hardware Contributions
 (KiCad + GitHub)
 - Keep all KiCad sources in a single top-level folder per board or subsystem.
 - Commit schematic and PCB files together for any change.
