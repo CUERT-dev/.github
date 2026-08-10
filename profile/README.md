@@ -52,6 +52,13 @@ Participation in Shell Eco-marathon has helped CUERT achieve:
 - Development of both gasoline and electric prototype vehicles  
 ---
 
+---
+
+## Code Names
+
+- Embd = Embedded
+---
+
 ## Conclusion
 
 For CUERT, Shell Eco-marathon is more than an event it is the foundation of the team’s vision. It drives innovation, teamwork, and excellence, enabling students to build cutting-edge solutions for the future of sustainable transportation.
